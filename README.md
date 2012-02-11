@@ -6,7 +6,7 @@ Each player decides which hand to play based on influence by the individual beha
 
 In the below examples, *Goliath* is always defined by the same set of behaviors, but *David*'s behaviors are added randomly on each run.
 
-*Example output:*
+**Example output:**
 
     'David': { History, Instinct, Influential, Paranoid, Gifted, Stubborn }
 
@@ -18,7 +18,7 @@ In the below examples, *Goliath* is always defined by the same set of behaviors,
 
      'David' won 2 times`
 
-*Other behaviors:*
+**Other behaviors:**
 
     'David': { History, Instinct, Influential, Unpredictable, Cheating, Gifted }
 
