@@ -48,7 +48,7 @@
     <Compile Include="Behaviors\Paranoid.cs" />
     <Compile Include="Behaviors\Predictable.cs" />
     <Compile Include="Behaviors\Stubborn.cs" />
-    <Compile Include="Behaviors\Stupid.cs" />
+    <Compile Include="Behaviors\Unpredictable.cs" />
     <Compile Include="Decision.cs" />
     <Compile Include="Hand.cs" />
     <Compile Include="History.cs" />
